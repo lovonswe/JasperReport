@@ -1,0 +1,22 @@
+INSERT INTO employee (name, description, salary, date_of_job)
+VALUES
+('John Doe', 'Software Engineer', 50000.00, '2022-04-26'),
+('Jane Smith', 'Data Analyst', 45000.00, '2022-04-25'),
+('Alice Johnson', 'Project Manager', 60000.00, '2022-04-24'),
+('Bob Williams', 'Software Developer', 55000.00, '2022-04-23'),
+('Emily Brown', 'Marketing Specialist', 48000.00, '2022-04-22'),
+('Michael Davis', 'HR Manager', 58000.00, '2022-04-21'),
+('Jessica Wilson', 'Financial Analyst', 52000.00, '2022-04-20'),
+('David Martinez', 'Sales Representative', 49000.00, '2022-04-19'),
+('Sarah Anderson', 'Customer Support', 47000.00, '2022-04-18'),
+('Daniel Taylor', 'Quality Assurance', 53000.00, '2022-04-17'),
+('Jennifer Thomas', 'Operations Manager', 59000.00, '2022-04-16'),
+('Matthew Garcia', 'Business Analyst', 56000.00, '2022-04-15'),
+('Linda Hernandez', 'Accountant', 54000.00, '2022-04-14'),
+('Christopher Young', 'Technical Writer', 51000.00, '2022-04-13'),
+('Amanda King', 'Product Manager', 57000.00, '2022-04-12'),
+('James Lopez', 'Research Scientist', 61000.00, '2022-04-11'),
+('Melissa Perez', 'Graphic Designer', 52000.00, '2022-04-10'),
+('Kevin Scott', 'Network Administrator', 54000.00, '2022-04-09'),
+('Rachel Lee', 'Executive Assistant', 50000.00, '2022-04-08'),
+('Justin Baker', 'Web Developer', 55000.00, '2022-04-07');
